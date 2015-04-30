@@ -2,8 +2,8 @@
 Contributors: cklosows
 Tags: semalt, bots, crawlers, google analytics
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.0
+Tested up to: 4.2
+Stable tag: 1.1
 Donate link: https://filament-studios.com/donate
 License: GPLv2 or later
 
@@ -24,6 +24,11 @@ If your host supports .htaccess, you should try https://wordpress.org/plugins/bl
 3. Stop seeing Semalt in your analytics stats
 
 == Changelog ==
+= 1.1 =
+* NEW: Added best-seo-offer.com to the URL list
+* NEW: Added filter for the URLS to look for
+* TWEAK: Does not check on logged in or admin sessions
+
 = 1.0 =
 * Initial Release
 
